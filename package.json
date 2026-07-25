@@ -1,0 +1,12 @@
+{
+  "name": "bili-audio",
+  "version": "1.0.0",
+  "description": "轻量级B站音频播放器 - 只播音频不播视频，内存占用极小",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["bilibili", "audio", "player", "lightweight"],
+  "license": "MIT"
+}
